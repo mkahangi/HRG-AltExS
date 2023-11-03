@@ -6,4 +6,6 @@ According to Refs. \cite{borsanyi2021lattice,borsanyi2022resummed}, a novel expa
 $$
     \chi_n(T) = \frac{\partial^n (P/T^4)}{\partial (\mu_B/T)^n}
 $$
-where Pressure, P is define from Taylor expansion  $\frac{P(T,\mu_B)}{T^4} = \sum_0^\infty{\frac{1}{2n!}\chi_{2n}(T,\mu_B = 0)\left(\frac{\mu_B}{T}\right)^{2n}} $
+where Pressure, P is defined from Taylor expansion  
+
+$\frac{P(T,\mu_B)}{T^4} = \sum_0^\infty{\frac{1}{2n!}\chi_{2n}(T,\mu_B = 0)\left(\frac{\mu_B}{T}\right)^{2n}} $
